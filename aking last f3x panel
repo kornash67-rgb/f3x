@@ -62,7 +62,7 @@ G2L["6"]["BackgroundTransparency"] = 1;
 G2L["6"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
 G2L["6"]["Size"] = UDim2.new(0.14365, 0, 0.16545, 0);
 G2L["6"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["6"]["Text"] = [[F3X]];
+G2L["6"]["Text"] = [[MONSY'S]];
 G2L["6"]["Position"] = UDim2.new(0.09511, 0, 0.1101, 0);
 
 
@@ -79,7 +79,7 @@ G2L["7"]["BackgroundTransparency"] = 1;
 G2L["7"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
 G2L["7"]["Size"] = UDim2.new(0.14365, 0, 0.16545, 0);
 G2L["7"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["7"]["Text"] = [[UI]];
+G2L["7"]["Text"] = [[F3X/BUILDINGTOOLS PANEL]];
 G2L["7"]["Position"] = UDim2.new(0.22762, 0, 0.1101, 0);
 
 
